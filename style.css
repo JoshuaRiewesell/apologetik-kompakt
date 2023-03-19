@@ -61,8 +61,12 @@ body {
     color: white;
 }
 
-.collapse {
+.collapse > button {
     background-color: #da3c2c;
+}
+
+.collapse > .collapse > button {
+    background-color: #ca2c1c;
 }
 
 #content {

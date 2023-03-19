@@ -14,49 +14,23 @@
         <image src="apologetik-kompakt-loewe-weisser-kreis.png" id="logo"></image>
       <h1 id="title">Apologetik kompakt</h1>
       <nav class="nav flex-column">
+
         <button class="nav-link" data-url="home.md">Home</button>
-        <button class="btn btn-primary nav-link" type="button" data-bs-toggle="collapse" data-bs-target="#guide" data-url="guide.md">Guide</button>
-        <div id="guide" class="collapse">
-            <button class="nav-link" data-url="home.html">Was kann ich wissen?</button>
-            <button class="nav-link" data-url="home.html">Was soll ich tun?</button>
-            <button class="nav-link" data-url="home.html">Was darf ich hoffen?</button>
-            <button class="nav-link" data-url="home.html">Was ist der Mensch?</button>
+        
+        <button class="btn btn-primary nav-link" type="button" data-bs-toggle="collapse" data-bs-target="#grundlagen" data-url="grundlagen.md">Grundlagen</button>
+          <div id="grundlagen" class="collapse">
+              <button class="nav-link" data-url="sites/beweisbarkeit.md">Beweisbarkeit</button>
+          </div>
+
+        <button class="btn btn-primary nav-link" type="button" data-bs-toggle="collapse" data-bs-target="#gruende" data-url="gruende.md">Gründe</button>
+        <div id="gruende" class="collapse">
+          <button class="btn btn-primary nav-link" type="button" data-bs-toggle="collapse" data-bs-target="#historisch" data-url="historisch.md">historisch</button>
+          <div id="historisch" class="collapse">
+              <button class="nav-link" data-url="sites/jesus_ist_auferstanden.md">Jesus ist auferstanden</button>
+              <button class="nav-link" data-url="sites/jesus_ist_gott.md">Jesus ist Gott</button>
+          </div>
         </div>
-        <button class="btn btn-primary nav-link" type="button" data-bs-toggle="collapse" data-bs-target="#weltanschauungen" data-url="home.html">Weltanschauungen</button>
-        <div id="weltanschauungen" class="collapse">
-            <button class="nav-link" data-url="home.html">Christentum</button>
-            <button class="nav-link" data-url="home.html">Pantheismus</button>
-            <button class="nav-link" data-url="home.html">Atheismus & Naturalismus</button>
-        </div>
-        <button class="btn btn-primary nav-link" type="button" data-bs-toggle="collapse" data-bs-target="#argumente" data-url="home.html">Argumente</button>
-        <div id="argumente" class="collapse">
-            <button class="nav-link" data-url="home.html">moralisch</button>
-            <button class="nav-link" data-url="home.html">kosmologisch</button>
-            <button class="nav-link" data-url="home.html">ontologisch</button>
-            <button class="nav-link" data-url="home.html">teleologisch</button>
-            <button class="nav-link" data-url="home.html">historisch</button>
-            <button class="nav-link" data-url="home.html">bezeugt</button>
-            <button class="nav-link" data-url="home.html">persönlich</button>
-            <button class="nav-link" data-url="home.html">pragmatisch</button>
-            <button class="nav-link" data-url="home.html">prophetisch</button>
-        </div>
-        <button class="btn btn-primary nav-link" type="button" data-bs-toggle="collapse" data-bs-target="#fragen" data-url="home.html">Fragen</button>
-        <div id="fragen" class="collapse">
-            <button class="nav-link" data-url="home.html">Wissenschaft</button>
-            <button class="nav-link" data-url="home.html">Gott</button>
-            <button class="nav-link" data-url="home.html">Jesus</button>
-            <button class="nav-link" data-url="home.html">Bibel</button>
-            <button class="nav-link" data-url="home.html">Christentum</button>
-            <button class="nav-link" data-url="home.html">Leid</button>
-            <button class="nav-link" data-url="home.html">Zeitgeschehen</button>
-        </div>
-        <button class="btn btn-primary nav-link" type="button" data-bs-toggle="collapse" data-bs-target="#personen" data-url="home.html">Personen</button>
-        <div id="personen" class="collapse">
-            <button class="nav-link" data-url="home.html">Historisch</button>
-            <button class="nav-link" data-url="home.html">Heute</button>
-            <button class="nav-link" data-url="home.html">Wissenschaftler</button>
-            <button class="nav-link" data-url="home.html">Promis</button>
-        </div>
+
       </nav>
     </div>
     <div class="content" id="content" w3-include-html="home.html"><zero-md src="README.md"></zero-md></div>
