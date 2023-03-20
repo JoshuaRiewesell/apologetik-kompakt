@@ -1,8 +1,10 @@
 # Jesus ist Gott
+[//]: # (E2)
 
 ## Aussage 1: Jesus lebte
 
 ## Aussage 2: Jesus hatte den Anspruch Gott zu sein
+[//]: # (TODO: S. 24 Belege anschauen)
 
 Was Jesus über sich sagt:
 Johannes 10,30: “Ich und der Vater sind eins.”
@@ -24,6 +26,8 @@ Der Jünger Thomas bekennt Jesus als “Mein Herr und mein Gott!” (Johannes 20
 In der Offenbarung unterweist ein Engel den Apostel Johannes, nur Gott anzubeten (Offenbarung 19,10). Mehrere Stellen der Heiligen Schrift bezeugen, dass Jesus Anbetung empfängt (Matthäus 2,11; 14,33; 28,9.17; Lukas 24,52; Johannes 9,38). Niemals weist Er Menschen dafür zurecht, dass sie Ihn anbeten. Wäre Jesus nicht Gott, würde Er ihnen sagen, dass sie Ihn nicht anbeten sollen, so wie es der Engel in der Offenbarung tut.
 
 ## Aussage 3: Jesus hat damit Recht und ist Gott
+
+Da wir also wissen, dass Jesus existierte und sich selbst für Gott hielt, verbeliben drei Möglichkeiten, wer Jesus war:
 
 1. Lügner (es ist falsch, was Jesus sagt und er weiß das auch)
 2. Größenwahnsinniger (es ist falsch, was Jesus sagt, er denkt aber dass es richtig sei)
