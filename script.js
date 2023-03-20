@@ -38,3 +38,10 @@ function includeHTML() {
       //includeHTML();
     }
   });
+
+// for collapsing all buttons when one is selected
+
+$('button').click(function() {
+  var $collapse = $(this).siblings('.collapse');
+  $collapse.collapse('hide');
+});

@@ -48,20 +48,7 @@ body {
     text-shadow: #7a261e 0 1px 1px;
 }
 
-.nav button:hover {
-    background-color: var(--theme-color);
-    color: white;
-}
-
-.nav button:active {
-    background-color: var(--theme-color);
-}
-
-.nav button:focus {
-    color: white;
-}
-
-.collapse > button {
+.collapse button {
     background-color: #da3c2c;
 }
 
@@ -73,4 +60,20 @@ body {
     margin-left: var(--sidebar-width);   
     padding: 50px;
     width: 50%;
+}
+
+/* dynamic */
+
+.nav button:hover {
+    background-color: #fa5c4c;;
+    color: white;
+}
+
+.nav button:active {
+    background-color: #fa5c4c;;
+    color: white;
+}
+
+.nav button:focus {
+    color: white;
 }
