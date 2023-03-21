@@ -1,4 +1,4 @@
-# Jesus ist auferstanden
+# Jesu Auferstehung
 
 ## Aussage 1: Jesus lebte
 

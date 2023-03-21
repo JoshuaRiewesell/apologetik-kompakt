@@ -1,4 +1,4 @@
-# Jesus ist Gott
+# Jesu Gottesanspruch
 [//]: # (E2)
 
 ## Aussage 1: Jesus lebte
