@@ -29,6 +29,8 @@ In der Offenbarung unterweist ein Engel den Apostel Johannes, nur Gott anzubeten
 
 Da wir also wissen, dass Jesus existierte und sich selbst für Gott hielt, verbeliben drei Möglichkeiten, wer Jesus war:
 
+![bad, mad or god](img/bad-mad-god.jpg)
+
 1. Lügner (es ist falsch, was Jesus sagt und er weiß das auch)
 2. Größenwahnsinniger (es ist falsch, was Jesus sagt, er denkt aber dass es richtig sei)
 3. Gott (Jesu Gottesanspruch stimmt)

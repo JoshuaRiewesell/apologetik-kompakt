@@ -1,12 +1,14 @@
 # Gründe zu Glauben
 
-## Jesus ist Gott
+## historisch
+
+### Jesus ist Gott
 
 1. Jesus lebte
-2. Jesus sagte, er sei Gott
+2. Jesus hatte den Anspruch Gott zu sein
 3. Jesu Aussage ist wahr (wahrscheinlichste Option)
 
-## Jesus ist auferstanden
+### Jesus ist auferstanden
 
 1. Jesus lebte
 2. Jesus starb
