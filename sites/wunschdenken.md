@@ -13,7 +13,7 @@ Beispiele dafür sind fliegende Einhörner einerseits (Menschen wünschen sie si
 
 Die Beobachtung, dass Menschen den Wunsch nach einem Gott haben, hat also keinen Einfluss auf seine Existenz.
 
-## Unter Voraussetzung
+## Sind nicht Bedürfnisse Hinweise?
 [//]: # (bedarf Überarbeitung)
 
 Wenn Gott existiert, dann kann es sein, dass wir nur an seine Existenz glauben, weil wir sie uns wünschen.
@@ -21,3 +21,6 @@ Wenn Gott existiert, dann kann es sein, dass wir nur an seine Existenz glauben, 
 Es kann dann ebenso sein, dass wir diesen Wunsch oder dieses Bedürfnis haben, weil es einen Gott gibt, der diesen Wunsch ausfüllt. So wie wir Hunger haben, weil es Essen gibt. (C.S.Lewis)
 
 Wenn Gott nicht existiert, dann war es nur und ausschließlich ein Wunsch. (Projektionstheorie)
+
+[//]: # (https://christseinentdecken.wordpress.com/die-sehnsucht-im-herzen/)
+[//]: # (https://www.jesus.ch/information/gott/323599-warum_gott_nicht_der_erfueller_unserer_sehnsuechte_ist.html)
