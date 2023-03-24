@@ -1,17 +1,22 @@
-# Gründe zu Glauben
+# interne Struktur
 
-## historisch
+## Home
 
-### Jesus ist Gott
+## Grundlagen
 
-1. Jesus lebte
-2. Jesus hatte den Anspruch Gott zu sein
-3. Jesu Aussage ist wahr (wahrscheinlichste Option)
+Beweisbarkeit
 
-### Jesus ist auferstanden
+## Gründe
 
-1. Jesus lebte
-2. Jesus starb
-3. Jesus ist auferstanden (wahrscheinlichste Option)
+Kosmologisch
+Historisch
+- Auferstehung
+- Gottesanspruch
 
-## 
+## Verteidigung (/Vereinfachungen)
+
+Wunschdenken (Projektion)
+Sozialisation
+Lückenbüßer
+
+# Schöpfung
