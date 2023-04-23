@@ -21,3 +21,7 @@ E7: kosmologisches Argument (und wieso schuf Gott nicht nur den Menschen...)
 E8: Lückenbüßer (nicht zufriedenstellend)
 
 E9: Schöpfung
+
+E10: (Wirksamkeit von Gebet)
+
+E11: Kosmologisches Argument (Kalam-Kosmologisch)
