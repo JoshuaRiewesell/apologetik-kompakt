@@ -9,6 +9,9 @@ Beweisbarkeit
 ## Gründe
 
 Kosmologisch
+- Feinabstimmung
+- Ursprung
+
 Historisch
 - Auferstehung
 - Gottesanspruch
@@ -18,5 +21,4 @@ Historisch
 Wunschdenken (Projektion)
 Sozialisation
 Lückenbüßer
-
-# Schöpfung
+Völkermorde

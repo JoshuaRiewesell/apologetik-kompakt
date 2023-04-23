@@ -25,3 +25,11 @@ E9: Schöpfung
 E10: (Wirksamkeit von Gebet)
 
 E11: Kosmologisches Argument (Kalam-Kosmologisch)
+
+E12: (Gott kann nicht gegen Logik verstoßen)
+
+E13: Völkermorde (Gott AT vs Gott NT bzgl Gewalt)
+
+E14: Völkermorde (Gott im AT: Landnahme und Genozide)
+
+E15: (Hölle ist Erpressung und zu harte Strafe?)
