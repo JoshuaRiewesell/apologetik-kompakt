@@ -33,3 +33,9 @@ E13: Völkermorde (Gott AT vs Gott NT bzgl Gewalt)
 E14: Völkermorde (Gott im AT: Landnahme und Genozide)
 
 E15: (Hölle ist Erpressung und zu harte Strafe?)
+
+E16: (Gott opferte Jesus)
+
+E17: (unterschiedliche Startbedingungen (durch freien Willen; Gottes Ausgleich))
+
+E18: Hölle (Warum erschafft Gott Menschen, die in die Hölle kommen)
